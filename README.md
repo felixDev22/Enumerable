@@ -23,9 +23,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 moarse_code <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
-**moarse_code** is a Ruby exercise that decodes the morse code into a readable message
+**enumerable** is a Ruby exercise that decodes the morse code into a readable message
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -99,7 +99,7 @@ Example commands:
 
 ```sh
   cd my-folder
- git clone https://github.com/ijosue16/morse_decoder/tree/feature/morse-code-decoder
+ git clone https://github.com/felixDev22/enumerable
 ```
 
 -
@@ -188,7 +188,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ijosue16/morse_decoder/tree/feature/morse-code-decoder/issues).
+Feel free to check the [issues page](https://github.com/felixDev22/Enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
