@@ -23,9 +23,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 moarse_code <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
-**moarse_code** is a Ruby exercise that decodes the morse code into a readable message
+**enumerable** is a mixin that provides collection classes with several traversal and searching methods with the ability to sort.
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -61,7 +61,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Decoding moarse code to readable words or letters
+- Enumerable mixin that provides collection classes with several traversal and searching methods with the ability to sort.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +99,7 @@ Example commands:
 
 ```sh
   cd my-folder
- git clone https://github.com/ijosue16/morse_decoder/tree/feature/morse-code-decoder
+ git clone https://github.com/felixDev22/enumerable
 ```
 
 -
@@ -176,9 +176,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- Traversal and searching methods with the ability to sort.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,7 +186,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ijosue16/morse_decoder/tree/feature/morse-code-decoder/issues).
+Feel free to check the [issues page](https://github.com/felixDev22/Enumerable/tree/enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
